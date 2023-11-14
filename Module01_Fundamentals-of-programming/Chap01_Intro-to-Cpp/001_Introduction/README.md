@@ -1,4 +1,6 @@
-# Introduction 
+# Introduction, Features and Uses of C++
+
+## Introduction 
 
 C++ is a general-purpose programming language and is widely used nowadays for competitive programming. It has imperative, object-oriented, and generic programming features. C++ runs on lots of platforms like Windows, Linux, Unix, Mac, etc. It can be used to develop operating systems, browsers, games, and so on. This makes C++ powerful as well as flexible.
 
