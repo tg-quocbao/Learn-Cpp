@@ -47,3 +47,22 @@ C++ provides a lot of features that are given below.
 **12) Pointer:** C++ supports pointers that allow the user to deal directly with the memory and control the programmer. This makes it very suitable for low-level tasks and very complicated projects. It is known to increase the speed of execution by decreasing the memory access overhead.
 
 **13) Dynamic Memory Management:** It supports the feature of dynamic memory allocation. In C++ language, we can free the allocated memory by calling the free() function. These features are missing in languages like C.
+
+## Uses of C++
+There are several benefits of using C++ because of its features and security; below are some uses of C++ Programming Language:
+
+**Operating Systems:** One of the key requirements of an Operating System is that it should be very fast as it is responsible for scheduling and running the user programs. The strongly typed and fast nature of C++ makes it an ideal candidate for writing operating systems. Also, C++ has a vast collection of system-level functions that also help in writing low-level programs. Microsoft Windows or Mac OS X, or Linux - all operating systems have some parts programmed in C++.
+
+**Games:** Again since most of the games need to be faster to support smooth game play, C++ is extensively used in game design.  C++ can easily manipulate hardware resources, and it can also provide procedural programming for CPU-intensive functions.
+
+**Browsers:** With the fast performance of C++, most browsers have their rendering software written in C++. Browsers are mostly used in C++ for rendering purposes. Rendering engines need to be faster in execution as most people do not like to wait for the web page to be loaded. 
+
+**Libraries:** Many high-level libraries use C++ as the core programming language. For example, TensorFlow uses C++ as the back end programming language. Such libraries required high-performance computations because they involve multiplications of huge matrices to train Machine Learning models. As a result, performance becomes critical. C++ comes to the rescue in such libraries.
+
+**Graphics:** C++ is widely used in almost all graphics applications that require fast rendering, image processing, real-time physics, and mobile sensors.
+
+**Cloud/Distributed Systems:** Cloud storage systems use scalable file-systems that work close to the hardware; also, the multi threading libraries in C++ provide high concurrency and load tolerance. 
+
+**Embedded Systems:** C++ is closer to the hardware level, and so it is quite useful in embedded systems as the software and hardware in these are closely coupled. Many embedded systems use C++, such as smartwatches, MP3 players, GPS systems, etc.
+
+**Compilers:** Compilers of various programming languages use C++ as the back-end programming language.
