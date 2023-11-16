@@ -5,11 +5,15 @@ A variable is a storage place that has some memory allocated to it. It is used t
 ## Variable Declaration 
 
 In C++, we can declare variables as follows:
-- **data_type:** Type of the data that can be stored in this variable. It can be int, float, double, etc.
-- **variable_name:** Name given to the variable.
 ```
 data_type variable_name;
-Example:  int x;
+```
+- **data_type:** Type of the data that can be stored in this variable. It can be int, float, double, etc.
+- **variable_name:** Name given to the variable.
+
+Example:
+```
+int x;
 ```
  
 In this way, we can only create a variable in the memory location. Currently, it doesn’t have any value. We can assign the value in this variable by using two ways:
@@ -18,8 +22,11 @@ In this way, we can only create a variable in the memory location. Currently, it
 
 Here, we can discuss only the first way, i.e., variable initialization. We will discuss the second way later.
 ```
-data_type variable_name=value;
-Example:  int x = 20;
+data_type variable_name = value;
+```
+Example:
+```
+int x = 20;
 ```
 
 ## Rules for defining variables in C++
@@ -29,4 +36,4 @@ Example:  int x = 20;
 - C++ is case-sensitive, meaning a variable with the name ‘A’ is different from a variable with the name ‘a’. (Difference in the upper-case and lower-case holds true).
 
 ## C++ Keywords
-...
+![image](https://github.com/tg-quocbao/Learn-Cpp/assets/105618730/38ad9dd6-5408-4455-b88b-8e49d1483fa4)
