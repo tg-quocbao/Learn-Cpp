@@ -36,4 +36,4 @@ int x = 20;
 - C++ is case-sensitive, meaning a variable with the name ‘A’ is different from a variable with the name ‘a’. (Difference in the upper-case and lower-case holds true).
 
 ## C++ Keywords
-![image](https://github.com/tg-quocbao/Learn-Cpp/assets/105618730/38ad9dd6-5408-4455-b88b-8e49d1483fa4)
+![image](https://github.com/tg-quocbao/Learn-Cpp/assets/105618730/c3a5b780-0e9e-441f-b114-1164ff344f00)
