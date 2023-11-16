@@ -10,11 +10,12 @@ Pre-defined data types available in C++ are:
 - **unsigned char**: Character values
 - **bool**: Boolean values (true or false)
 - **long**: Contains integer values but with the larger size
-- **nsigned long**: Contains large positive integers or 0
+- **unsigned long**: Contains large positive integers or 0
 - **short**: Contains integer values but with a smaller size
 
 Table for datatype and its size in C++: (This can vary from compiler to compiler and system to system depending on the version you are using)
-...
+![image](https://github.com/tg-quocbao/Learn-Cpp/assets/105618730/19d686ab-7b53-4f6d-a224-f4af389d4b10)
+
 
 **Examples:**
 ```
